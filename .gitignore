@@ -1,0 +1,12 @@
+.bundle/
+log/*.log
+pkg/
+
+# ignore .env
+.env
+
+# ignore debugger
+.byebug_history
+
+# ignore build
+*.gem
